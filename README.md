@@ -4,7 +4,7 @@
 #### Usage
 
 1. Copy file to `MAYA_PLUG_IN_PATH`
-2. Load mplugin in Plugin Manager
+2. Load plugin in Plugin Manager
 3. Select geometry
 4. Execute:
 
